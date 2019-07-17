@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   id="svg"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="logo.svg">
+  <metadata
+     id="metadata">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs">
+    <linearGradient
+       inkscape:collect="always"
+       id="grad">
+      <stop
+         style="stop-color:#999"
+         offset="0"
+         id="s0" />
+      <stop
+         style="stop-color:#666"
+         offset="1"
+         id="s1" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#grad"
+       id="rgrad"
+       cx="256"
+       cy="256"
+       fx="256"
+       fy="256"
+       r="256"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       id="blur"
+       x="-12"
+       width="24"
+       y="-12"
+       height="24">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="12"
+         id="gauss" />
+    </filter>
+    <path
+       id="pathb"
+       d="m 176,0 c 0,96 -32,128 -112,128 -8,0 -8,0 -16,-16 0,16 -48,16 -112,16 -80,0 -112,-32 -112,-128 0,-64 48,-160 176,-160 128,0 176,96 176,160 z" />
+    <path
+       id="pathc"
+       d="m -8,-8 h16 v16 h-16 v-16 z"
+       style="fill:#984;stroke-width:12;stroke:#984;stroke-linejoin:round" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:current-layer="svg"
+     showgrid="true"
+     units="px"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:window-maximized="1"
+     scale-x="1"
+     inkscape:snap-bbox="true"
+     inkscape:zoom="2.00534"
+     inkscape:cx="305.178"
+     inkscape:cy="123.406"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2"
+       dotted="true"
+       empspacing="8"
+       originx="0"
+       originy="0"
+       spacingx="2"
+       spacingy="2"
+       units="px" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid16"
+       empspacing="4"
+       spacingx="16"
+       spacingy="16"
+       originx="0"
+       originy="0"
+       units="px" />
+  </sodipodi:namedview>
+  <g
+     inkscape:label="bg"
+     inkscape:groupmode="layer"
+     id="layerBg"
+     sodipodi:insensitive="true"
+     style="display:inline">
+    <rect
+       style="fill:url(#rgrad)"
+       id="rect"
+       width="512"
+       height="512"
+       x="0"
+       y="0"
+       rx="16"
+       ry="16" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layerTart"
+     transform="translate(256,240)"
+     inkscape:label="tart"
+     style="display:inline;opacity:1"
+     sodipodi:insensitive="true">
+    <use
+       x="0"
+       y="8"
+       xlink:href="#pathb"
+       id="uses"
+       style="fill:#000000;fill-opacity:0.25;filter:url(#blur)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="-4"
+       xlink:href="#pathb"
+       id="useh"
+       style="fill:#ffffff"
+       width="100%"
+       height="100%" />
+    <use
+       xlink:href="#pathb"
+       id="usem"
+       style="fill:#fef8e2"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <path
+       style="fill:#774455"
+       d="m 48,112 c 16,0 64,-16 64,-112 0,-80 -64,-112 -112,-112 -48,0 -112,32 -112,112 0,64 32,80 64,80 32,0 48,0 48,-32 0,-32 -24,-64 -20,-68 4,-4 56,0 60,4 4,4 16,48 16,64 0,48 -8,48 -8,64 z"
+       id="patha"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#aa6644;stroke-width:4;stroke-linecap:round"
+       d="m 50,112 c 14,0 62,-16 62,-112 0,-80 -64,-112 -112,-112 -48,0 -112,32 -112,112 0,64 32,80 64,80 32,0 48,0 48,-32 0,-32 -20,-64 -20,-66"
+       id="pathd"
+       inkscape:connector-curvature="0" />
+    <use
+       xlink:href="#pathc"
+       id="usec0"
+       transform="rotate(-30,40,-144)"
+       width="100%"
+       height="100%"
+       x="0"
+       y="0" />
+    <use
+       xlink:href="#pathc"
+       id="usec1"
+       transform="rotate(-20,-200,32)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <use
+       xlink:href="#pathc"
+       id="usec2"
+       transform="rotate(30,-80,-96)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layerText"
+     inkscape:label="text"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <text
+       x="256"
+       y="456"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:72px;font-family:serif;text-align:center;letter-spacing:4px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+       id="textC"><tspan
+         sodipodi:role="line"
+         id="tspan"
+         x="258"
+         y="456">Cretart</tspan></text>
+  </g>
+</svg>
